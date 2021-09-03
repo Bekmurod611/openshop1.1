@@ -9,7 +9,7 @@
     --b: #313131;
     --bc: #000000;
     --advbg: #313131;
-    --wbg: #fff;
+    --wbg: #E5E5E5;
     --button: #313131;
 
 }
@@ -208,7 +208,7 @@
 .nav__btns::after {
     content: '';
     width: 0;
-    height: 2px;
+    height: 3px;
     background: var(--b);
     position: absolute;
     bottom: -3px;
